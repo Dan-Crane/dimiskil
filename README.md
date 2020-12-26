@@ -5,6 +5,7 @@
 <hr>
 
 ## I'm a FrontEnd Developer 👨‍💻
+
 - 💪 I like to write code
 - 🎮 I love Nintendo games
 - 📚 I am constantly learning new things
@@ -27,8 +28,13 @@
 <details><summary>Progects 👨‍🏭</summary>
 
 <blockquote> 
-<details><summary>Progect one</summary>
-hello one
+<details><summary>ToDo on JS</summary>
+
+<img align="left" alt="demo" src="./img/Todo List - Google Chrome 2020-12-26 17-07-24.gif" />
+
+[demo](https://dimiskil.github.io/project_02/) ||
+[code](https://github.com/dimiskil/project_02)
+
 </details>
 </blockquote>
 
