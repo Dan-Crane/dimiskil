@@ -108,6 +108,7 @@
 
 </details>
 
+<br>
 <hr>
 
 ### Connect with me:
